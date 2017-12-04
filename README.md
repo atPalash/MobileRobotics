@@ -5,4 +5,8 @@ Various codes developed during mobile robotics course are included in the respec
     the map was as shown below:
     
     ![obstruction_nodes](https://user-images.githubusercontent.com/25124540/33582118-4d34e48e-d95c-11e7-80be-74871182d2af.jpg)
+    
     the paths found using different algorithm are shown below:
+
+    ![dijkstra_path](https://user-images.githubusercontent.com/25124540/33582238-ee68aec6-d95c-11e7-812c-cfe5f8a0c395.jpg)
+
