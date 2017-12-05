@@ -24,6 +24,9 @@ Various codes developed during mobile robotics course are included in the respec
     
     this folder also contains code for feature extraction using turtlebot camera.
 
-
+3. localisation, SLAM and Binary occupancy grid mapping
+    This folder contains Extended Kalman Filter and Monte Carlo Particle Filter(ex3a.m) for robot localisation in localisation folder. The results are as shown below:
+    kalman filter:
+    
 
 
