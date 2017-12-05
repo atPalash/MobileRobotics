@@ -41,6 +41,12 @@ Various codes developed during mobile robotics course are included in the respec
     ![slam](https://user-images.githubusercontent.com/25124540/33583853-1eac5648-d965-11e7-9f5d-8f8a9aee39ca.png)
 
     Also binary occupancy grid map is created by using laser scan data from turtlebot. The following picture shows the comparison.
+    original map:
+    
+    
+    
+    scanned map:
+    
     
     
     
