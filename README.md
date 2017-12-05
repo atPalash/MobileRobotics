@@ -32,6 +32,12 @@ Various codes developed during mobile robotics course are included in the respec
 
     particle filter:
     
+    ![particle](https://user-images.githubusercontent.com/25124540/33583771-a62d201c-d964-11e7-8759-460fd4b83bd8.png)
+
+    video link to particle filter: https://www.youtube.com/watch?v=niNCSenO0zQ&t=21s
+    
+    This folder contains SLAM codes the following show the result:
+    
     
     
 
