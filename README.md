@@ -18,6 +18,8 @@ Various codes developed during mobile robotics course are included in the respec
 2. path_smoothing & robot controller
     The waypoints were given to reach from start point to goal point, this task implemented path_smoothing using cubic splines and then directed the turtlebot along the path. The smooth path is as shown below:
     
+    ![smoothed_path_waypoints](https://user-images.githubusercontent.com/25124540/33583436-1a12a472-d963-11e7-902d-6273ec0b7f53.jpg)
+
     the link to the video is:https://www.youtube.com/watch?v=G5n23-CyWmk&t=46s
     this folder also contains code for feature extraction using turtlebot camera.
 
