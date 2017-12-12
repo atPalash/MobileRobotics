@@ -48,6 +48,8 @@ Various codes developed during mobile robotics course are included in the respec
     scanned map:
     
     ![map_sacnned](https://user-images.githubusercontent.com/25124540/33583988-d66a77f6-d965-11e7-935d-275104fbad7f.jpg)
+    
+    the objects (such as table, cupboard) present in the occupancy map are also plotted in the scanned map.
 
     
     
