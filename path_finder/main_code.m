@@ -186,7 +186,7 @@ for i=1:amountofnodes
 end
 
 
-%% directed graph
+%% directed graph from sini
  [Na,Aa] = convert2digraph(L,E);
  Ga=digraph(Aa);
  figure
